@@ -1,0 +1,25 @@
+{
+  "name": "dragan1700/pdf-report-creator",
+  "type": "module",
+  "description": "Create PDFs from a collection of ProcessWire pages",
+  "keywords": ["pdf", "report", "print"],
+  "homepage": "https://github.com/dragan1700/composer-test",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dragan Nikolic",
+      "email": "nikolic@gmail.com",
+      "homepage": "http://fantastique.li",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "processwire/processwire": ">3",
+    "php": ">=7",
+    "ext-json": "*",
+    "ext-curl": "*",
+    "composer/installers": "~1.0",
+    "mpdf/mpdf": "~8.0",
+    "ivopetkov/html5-dom-document-php": "^2.*"
+  }
+}
