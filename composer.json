@@ -20,7 +20,7 @@
     "ext-curl": "*",
     "composer/installers": "~1.0",
     "mpdf/mpdf": "~8.0",
-    "ivopetkov/html5-dom-document-php": "^2.*"
+    "ivopetkov/html5-dom-document-php": "^2"
   },
   "autoload": {
     "files": [ "index.php" ]
