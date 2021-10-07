@@ -23,6 +23,7 @@
     "mpdf/mpdf": "~8.0",
     "ivopetkov/html5-dom-document-php": "^2"
   },
+  "minimum-stability": "dev",
   "autoload": {
     "files": [ "index.php" ]
   }
