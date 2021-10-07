@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "type": "module",
   "description": "Create PDFs from a collection of ProcessWire pages",
-  "keywords": ["pdf", "report", "print"],
+  "keywords": ["pdf", "report", "print", "processwire"],
   "homepage": "https://github.com/dragan1700/composer-test",
   "license": "MIT",
   "authors": [
