@@ -1,5 +1,6 @@
 {
   "name": "dragan1700/pdf-report-creator",
+  "version": "0.0.1",
   "type": "module",
   "description": "Create PDFs from a collection of ProcessWire pages",
   "keywords": ["pdf", "report", "print"],
